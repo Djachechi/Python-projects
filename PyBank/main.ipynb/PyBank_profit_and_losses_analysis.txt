@@ -1,0 +1,7 @@
+PyBank Profit and Losses Analysis.
+----------------------------
+Total Months: 86
+Total: $74638024
+Average  Change: $-2315.12
+Greatest Increase in Profits: Aug-2016 ($1733696)
+Greatest Decrease in Profits: Feb-2017 ($532869)
