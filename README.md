@@ -10,7 +10,7 @@ Time to put away the Excel sheet and join the big leagues.In this project, I use
 ![revenue-per-lead](https://user-images.githubusercontent.com/86631648/133337869-2c18614b-802d-4130-a14a-59f8192a7875.jpg)
 
 
-In this activity, I am tasked with creating a Python script for analyzing the financial records of my company. A financial dataset was provided. This dataset is composed of two columns, Date and Profit/Losses. (Thankfully, the company has rather lax standards for accounting, so the records are simple.)
+In this repo, I create a Python script for analyzing the financial records of a company. With a randomly choosen financial dataset. This dataset is composed of two columns, Date and Profit/Losses. (Thankfully, the company has rather lax standards for accounting, so the records are simple.)
 The task is to create a Python script that analyzes the records to calculate each of the following:
 
 
