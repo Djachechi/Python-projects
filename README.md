@@ -34,14 +34,7 @@ The greatest decrease in losses (date and amount) over the entire period.
 
 ![portfolio-analysis](https://user-images.githubusercontent.com/86631648/133337888-1376f200-fb6d-47ec-88b4-c0f5c6ca0804.png)
 
-
-Welcome to Ichiban Ramen!
-Opening a ramen shop has always been a dream, and now it's finally been realized–– closing out on the second year of sales! Like last year, analyzing the business's financial performance by cross-referencing  sales data with  internal menu data to figure out revenues and costs for the year.
-This year,  analyze how well the business did on a per-product basis (as you have several choices of ramen) in order to better understand which products are doing well, which are doing poorly, and, ultimately, which products may need to be removed or changed.
-A  need to innovate. With more customers and more data to process, a tool that will allow you to automate your calculations in a manner that scales with your business. The tasks are:
+Analyze how well the business did on a per-product basis (as you have several choices of ramen) in order to better understand which products are doing well, which are doing poorly, and, ultimately, which products may need to be removed or changed.
+A  need to innovate. With more customers and more data to process, a tool that will allow you to automate your calculations in a manner that scales with your business. 
 
 
-Read the Data
-
-
-Manipulate the Data
